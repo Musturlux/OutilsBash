@@ -10,6 +10,10 @@ Ce script bash est un de mes premiers. je risque de le refaire plusieur fois.
 
 Utilisation :
 
-$ytdl URL dossier
+$bash ytdl.bash URL dossier
+
+Pour utiliser le fichier de configuration
+$dos2unix ytdlConfig.txt (converti le fichier text window en fiwhier text unix tres pratique !!!)
+$bash ytdl.bash conf URL
 
 Note : chmod +x nom_du_script -> rendre le script excutable

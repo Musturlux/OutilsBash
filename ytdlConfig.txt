@@ -1,0 +1,5 @@
+# fichier de configuration du script ytdl
+dest=""
+name=""
+format=""
+audio=""
