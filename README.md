@@ -1,7 +1,7 @@
 # OutilsBash
 Ce repertoire rassemble du code bash qui me sert d'outils.
 
-# Premier Outils -youtube-dl- "ytdl"
+# Premier Outils -youtube-dl- "ytdl" *WIP*
 
 Context : Dans le cadre de l'utilisation de voicemeter banane et la découverte des bouton macro, il me faut créer une base de son à lancé.
 
