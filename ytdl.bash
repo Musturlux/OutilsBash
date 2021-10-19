@@ -1,3 +1,19 @@
+#! /bin/bash
+
+#-- Actuelment ------------------
+#ytdl conf URL --> Utilisation du fichier de configuration pour téléchargé une vidéo
+#
+#ytdl URL --> Télécharge la vidéo et l'enregistre dans le répertoire courant
+#
+#ytdl URL cheminAcces --> Télécharge la vidéo est l'enregistre dans le répétoire référencé Attention il faut ajouter le nom du fichier sortant.
+
+#-- But -------------------------
+# Pouvoir téléchargé toute les URL d'un fichier grace au -a
+#        --> faire attention a convertir le fichier txt si on passe de windows à linux
+# Regarder comment faire proprement des flag du genre "-c" --> utilise le fichier de configuration
+#        --> implique de pouvoir lire les flag dans l'importe quel sens et n'importe quel placement 
+
+
 source ytdlConfig.txt
 
 function avecConfig()
